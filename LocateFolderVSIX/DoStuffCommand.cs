@@ -104,7 +104,7 @@ namespace LocateFolderVSIX
             //    OLEMSGDEFBUTTON.OLEMSGDEFBUTTON_FIRST);
             Window popUpWindow = new Window()
             {
-                Title = "Stuff which is done",
+                Title = "Stuff which is being done",
                 Content = new DoStuffUserControl()
             };
             popUpWindow.Show();
